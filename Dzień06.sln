@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{8C802D34-B2F5-472C-A4F4-5276C19904A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParser", "XMLParser\XMLParser.csproj", "{520AF839-E8BF-40CC-A2F5-BD9826C956C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParser", "JsonParser\JsonParser.csproj", "{946202F9-36F4-4182-8A62-96E24B8A1B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLConnect", "MySQLConnect\MySQLConnect.csproj", "{74870128-A6E2-4B9C-88FE-75F174E63E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C802D34-B2F5-472C-A4F4-5276C19904A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C802D34-B2F5-472C-A4F4-5276C19904A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C802D34-B2F5-472C-A4F4-5276C19904A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C802D34-B2F5-472C-A4F4-5276C19904A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520AF839-E8BF-40CC-A2F5-BD9826C956C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520AF839-E8BF-40CC-A2F5-BD9826C956C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520AF839-E8BF-40CC-A2F5-BD9826C956C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520AF839-E8BF-40CC-A2F5-BD9826C956C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946202F9-36F4-4182-8A62-96E24B8A1B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946202F9-36F4-4182-8A62-96E24B8A1B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946202F9-36F4-4182-8A62-96E24B8A1B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946202F9-36F4-4182-8A62-96E24B8A1B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74870128-A6E2-4B9C-88FE-75F174E63E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74870128-A6E2-4B9C-88FE-75F174E63E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74870128-A6E2-4B9C-88FE-75F174E63E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74870128-A6E2-4B9C-88FE-75F174E63E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F28141-3108-4F1E-A851-0D1EE42D0D30}
+	EndGlobalSection
+EndGlobal
